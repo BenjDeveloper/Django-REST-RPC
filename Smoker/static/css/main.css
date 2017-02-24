@@ -1,0 +1,64 @@
+body{
+	background-color: #E6E2AF !important
+}
+a{
+	color: #1695A3 ;
+}
+
+.quitar-float{
+	float: none;
+}
+
+.espacio-arriba{		
+	margin-top: 50px;
+}
+
+.espacio-derecha{
+	margin-right: 1em;
+}
+
+.no-lista li{
+	list-style-type: none;
+}
+
+
+
+/******** TIPOS DE LETRAS *****************/
+.titulo{
+	font-family: 'Bangers', cursive;
+}
+
+
+.subtitulo{
+	font-family: 'Orbitron', sans-serif;
+}
+
+.ultimo{
+	font-family: 'Coming Soon', cursive;
+}
+/*****************************************/
+
+
+
+/*************** COLORES ********************/
+
+.azul{ 				
+	color: #046380
+}
+
+.vinotinto{
+	color: #8A0917
+}
+
+.amarillo{
+	color: #EB7F00
+}
+
+.negro{
+	color:#000000
+}
+
+.bench{
+	color: #FCFAE1
+}
+
