@@ -15,10 +15,10 @@ Servidores
 
 Estructura
 --------------------
-Servidor-1    <REST/RPC>    Servidor-2   <REST/RPC>    Servidor-3
+Servidor-1    <<-REST/RPC->>    Servidor-2   <<-REST/RPC->>    Servidor-3
 
-Servicios REST para el manejo de funcionalidades de fumador, banquito y provehedor 
-Servidios RPC para el manejo de las replicas del Log.xml
+- Servicios REST para el manejo de funcionalidades de fumador, banquito y provehedor 
+- Servidios RPC para el manejo de las replicas del Log.xml
 
 Cualquier duda o comentario no duden en preguntar 
 + bvpenaloza.11@gmail.com
